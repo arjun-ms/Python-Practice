@@ -43,3 +43,6 @@ print(f"Amt: {Ksrtc.fare()}")
 
 # checking type
 print(type(Ksrtc))
+
+# checking Instance type
+print(isinstance(Ksrtc,Vehicle))
